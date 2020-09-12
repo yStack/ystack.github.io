@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ystack.github.io</id>
     <title>片段</title>
-    <updated>2020-09-12T09:30:29.757Z</updated>
+    <updated>2020-09-12T10:23:22.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ystack.github.io"/>
     <link rel="self" href="https://ystack.github.io/atom.xml"/>
@@ -10,4 +10,25 @@
     <logo>https://ystack.github.io/images/avatar.png</logo>
     <icon>https://ystack.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 片段</rights>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>https://ystack.github.io/post/about/</id>
+        <link href="https://ystack.github.io/post/about/">
+        </link>
+        <updated>2020-09-12T09:09:48.000Z</updated>
+        <content type="html"><![CDATA[<p>很高兴遇见你！❤️💚💙</p>
+<h2 id="关于本站">🍎关于本站</h2>
+<p>还记得十年前的自己吗？还记得十年来发生了什么吗？遇到了哪些人？发生了什么事？到过哪些地方？看了哪些书？吃了什么好吃的？和哪个王八蛋吵了一架？夜里睡觉前和谁说了晚安？在某一刻突然想起了谁？在某个夜晚为什么痛哭流涕？当初又和谁吹了什么牛逼？.......</p>
+<p>生活中发生的这一切，随着时间的增长，似乎都变得模糊了。连记忆都开始变得不那么清晰…我也不确定当初的情感是否真的那么真挚，也开始怀疑那些记忆中的场景是否是真实经历，也许那只是一场梦或者小说中的场景被我记忆为了真实…</p>
+<p>十年来，生活发生了想不到的变化，有时想往回看，却也什么都看不到。</p>
+<p>马尔克斯说：过去都是假的，回忆是一条没有归途的路，以往的一切春天都无法复原，即使最狂乱且坚韧的爱情，归根结底也不过是一种瞬息即逝的现实，唯有孤独永恒。</p>
+<p>那么，即便如此，从此往后，我也打算要记下这虚假的回忆和过去，记下一个春天和又一个春天，记下一个瞬间和又一个瞬间，记下一次孤独和又一次孤独…</p>
+<p>逛博客的时候发现了一个叫<a href="https://foreverblog.cn/">十年之约</a>的项目，觉得有意思，每个博主都和自己来一个为期十年的约定，十年不停更。</p>
+<p>所以，我又重新捡起了blog，先和自己来个小小的一年之约吧，提醒自己要时常记录生活的点点滴滴。</p>
+<h2 id="博主是谁">‍😃博主是谁</h2>
+<p>我是一名软件工程师  一半是理工男，一半是伪文青</p>
+<p>热爱技术，相信技术改变世界，热爱编程以及一切新鲜又好玩的事物，喜欢旅游，哪怕是走马观花，也喜欢看书，大多不求甚解；喜欢摄影，属于记录生活的自娱自乐</p>
+<p>好了，如果想和我聊一下，可以发邮件给我 vonfat@gmail.com</p>
+]]></content>
+    </entry>
 </feed>
